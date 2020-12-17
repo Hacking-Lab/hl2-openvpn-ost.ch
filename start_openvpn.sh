@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Start VPN in terminal as root (debugging purpose)
 echo "==============================================================================="
 echo "   VPN WILL ONLY WORK IF YOU HAVE PREVIOUSLY AUTHENTICATED IN A HL WEB APP    "

@@ -7,7 +7,13 @@ Please be aware, you **MUST** be authenticated with your browser in one of the H
 ## Usage
 Please run the `start_openvpn.sh` script as `root` using the `sudo ./start_openvpn.sh` command and test your connection
 
-![VPN](screenshot-openvpn-success-in-console.png)
+![VPN](./img/vpn.png)
+
+You should be able to `ping` the `nessus` host, once your VPN is up an running. 
+
+![Nessus](./img/nessus.png)
+
+
 
 ## Troubleshooting
 

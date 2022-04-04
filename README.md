@@ -1,18 +1,11 @@
-# hl2-openvpn-ost.ch
-
-Hacking-Lab 2.0 OpenVPN Client Configuration for the OST DC in Switzerland
-
-## Introduction
-
-Hacking-Lab 2.0 introduces an OpenVPN gateway. This is useful when testing reverse shells from the vulnerable systems to the students computer. 
+# Introduction
+If you need a reverse-shell from one of the vulnerable Hacking-Lab services back to your local computer, you must connect to our vulnerable systems using OpenVPN. The vulnerable services are firewalled and therefore you cannot connect back to an internet ip address.
 
 ## Pre-Requirement
-
 Please be aware, you **MUST** be authenticated with your browser in one of the Hacking-Lab 2.0 applications, `before VPN access will be granted`!
 
 ## Usage
-
-Please run the `start_openvpn.sh` script as `root` and test your connection
+Please run the `start_openvpn.sh` script as `root` using the `sudo ./start_openvpn.sh` command and test your connection
 
 ![VPN](screenshot-openvpn-success-in-console.png)
 
@@ -26,8 +19,11 @@ Please run the `start_openvpn.sh` script as `root` and test your connection
 Once you connect successfully, you should see the message `Initialization Sequence Completed`.
 
 ## Hacking-Lab LiveCD
-
 The VPN is pre-configured on the latest HL LiveCD. 
 Get a copy from https://livecd.hacking-lab.com/ 
+
+## More Information
+Please visit https://www.hacking-lab.com/ to find more information. 
+
 
 

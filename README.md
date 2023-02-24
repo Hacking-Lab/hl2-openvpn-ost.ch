@@ -27,9 +27,9 @@ You should be able to `ping` the `nessus` host, once your VPN is up an running.
 
 Once you connect successfully, you should see the message `Initialization Sequence Completed`.
 
-## Hacking-Lab LiveCD
-The VPN is pre-configured on the latest HL LiveCD. 
-Get a copy from https://livecd.hacking-lab.com/ 
+## Hacking-Lab Kookarai Pentesting Linux
+The VPN is pre-configured on the latest Kookarai Pentesting Linux
+Get a copy from https://kookarai.idocker.hacking-lab.com/ 
 
 ## More Information
 Please visit https://www.hacking-lab.com/ to find more information. 

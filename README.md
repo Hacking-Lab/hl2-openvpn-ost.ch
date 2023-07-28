@@ -12,16 +12,16 @@ Please run the `start_openvpn.sh` script as `root` using the `sudo ./start_openv
 
 ![VPN](./img/vpn.png)
 
-You should be able to `ping` the `nessus` host, once your VPN is up an running. 
+You should be able to `ping` the `demo` host, once your VPN is up an running. 
 
-![Nessus](./img/nessus.png)
+![demo](./img/demo.png)
 
 
 
 ## Troubleshooting
 
 1. `no such file or directory: /usr/sbin/openvpn`: install the openvpn client (e.g. `sudo apt install openvpn`)
-2. `UDP link remote: [AF_INET]152.96.6.70:1194`: make sure you are still logged in to the hacking-lab using a browser from the same IP address
+2. `UDP link remote: [AF_INET]152.96.14.70:1194`: make sure you are still logged in to the hacking-lab using a browser from the same IP address
 3. `ERROR: Cannot ioctl TUNSETIFF tun: Operation not permitted (errno=1)`: make sure you are running the OpenVPN client with root rights (e.g. `sudo ./start_openvpn.sh`)
 4. `Options error: In [CMD-LINE]:1: Error opening configuration file: /some/path/Hacking-Lab-2.0.ovpn`: make sure to call the `start_openvpn.sh` script from the correct directory
 

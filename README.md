@@ -12,9 +12,9 @@ Please run the `start_openvpn.sh` script as `root` using the `sudo ./start_openv
 
 ![VPN](./img/vpn.png)
 
-You should be able to `ping` the `demo` host, once your VPN is up an running. 
+You should be able to `ping` the `nessus` host, once your VPN is up an running. 
 
-![demo](./img/demo.png)
+![demo](./img/ping.png)
 
 
 

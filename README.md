@@ -2,7 +2,9 @@
 If you need a reverse-shell from one of the vulnerable Hacking-Lab services back to your local computer, you must connect to our vulnerable systems using OpenVPN. The vulnerable services are firewalled and therefore you cannot connect back to an internet ip address.
 
 ## Video
-* https://www.hacking-lab.com/blog/reverse-shell-vpn
+* https://youtu.be/naVrSd3yMN0
+* https://youtu.be/cCfw_YbEAVs
+* https://youtu.be/JQQv-LSU4Nk
 
 ## Pre-Requirement
 Please be aware, you **MUST** be authenticated with your browser in one of the Hacking-Lab 2.0 applications, `before VPN access will be granted`!

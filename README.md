@@ -29,7 +29,7 @@ Once you connect successfully, you should see the message `Initialization Sequen
 
 ## Hacking-Lab Kookarai Pentesting Linux
 The VPN is pre-configured on the latest Kookarai Pentesting Linux
-Get a copy from https://kookarai.idocker.hacking-lab.com/ 
+Get a copy from https://livecd.hacking-lab.com/ 
 
 ## More Information
 Please visit https://www.hacking-lab.com/ to find more information. 
